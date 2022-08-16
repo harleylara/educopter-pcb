@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AO3401A-dk_Transistors-FETs-MOSFETs-Single
+F http://aosmd.com/res/data_sheets/AO3401A.pdf
+$ENDCMP
+#
+$CMP IRLML6344TRPBF-dk_Transistors-FETs-MOSFETs-Single
+F https://www.infineon.com/dgdl/irlml6344pbf.pdf?fileId=5546d462533600a4015356689c44262c
+$ENDCMP
+#
+$CMP MBT3904DW1T1G-dk_Transistors-Bipolar-BJT-Arrays
+F http://www.onsemi.com/pub/Collateral/MBT3904DW1T1-D.PDF
+$ENDCMP
+#
+$CMP S2B-PH-K-S_LF__SN_-dk_Rectangular-Connectors-Headers-Male-Pins
+F http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+$ENDCMP
+#
+#End Doc Library

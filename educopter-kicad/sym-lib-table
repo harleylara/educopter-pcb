@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "educopter-kicad-rescue")(type "Legacy")(uri "${KIPRJMOD}/educopter-kicad-rescue.lib")(options "")(descr ""))
+)
