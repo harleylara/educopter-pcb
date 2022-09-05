@@ -44,9 +44,9 @@
   (pad "E1" smd circle (at -0.566 0.566) (size 0.2 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 21d8e773-28d8-4fa5-a9ca-aeef6ff14c5c))
   (pad "E3" smd circle (at 0 0.566) (size 0.2 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3353739a-c8cd-4660-9c46-dcc250f494fd))
   (pad "E5" smd circle (at 0.566 0.566) (size 0.2 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6f767598-0744-4aba-ba35-c332f699bfae))
-  (model "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-12_1.56x1.56mm_P0.4mm.wrl"
+  (model "D:/projects/dev/educopter-3d-models/electronics-components/WLCSP-12_1.56x1.56mm_P0.4mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 90))
   )
 )

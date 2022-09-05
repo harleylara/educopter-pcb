@@ -333,14 +333,9 @@
       "BMP390",
       "IMUs",
       "LGA",
-      "optical_flow"
+      "ToF"
     ],
-    "pinned_symbol_libs": [
-      "BMP390",
-      "FFC_connector",
-      "IMUs",
-      "optical_flow"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "educopter-kicad.kicad_pro",

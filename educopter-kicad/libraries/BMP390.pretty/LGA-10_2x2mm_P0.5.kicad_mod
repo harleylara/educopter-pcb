@@ -37,4 +37,9 @@
   (pad "8" smd rect (at 0.7625 0.5 180) (size 0.325 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cd351d62-7f7f-4637-a9d6-ad49f5744760))
   (pad "9" smd rect (at 0.7625 0 180) (size 0.325 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e4a4f329-e6cf-4f3b-873b-5a57f4710d07))
   (pad "10" smd rect (at 0.7625 -0.5 180) (size 0.325 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3b08c65f-ed3c-4fb1-9625-7e65382de566))
+  (model "D:/projects/dev/educopter-3d-models/electronics-components/LGA-10_2x2mm_P0.5,mm_H0.75 v1.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
